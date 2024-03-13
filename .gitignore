@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Build output
+output/
+
+# Crash log files
+crash.log
