@@ -4,6 +4,7 @@ on:
     tags:
       - "v*"
 env:
+  KEY: VALUE
 jobs:
   build-docs:
     runs-on: ubuntu-22.04
